@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pydicom
+opencv-python-headless
+pillow
+tk

@@ -1,0 +1,13 @@
+README.md
+setup.py
+circle_detector.egg-info/PKG-INFO
+circle_detector.egg-info/SOURCES.txt
+circle_detector.egg-info/dependency_links.txt
+circle_detector.egg-info/entry_points.txt
+circle_detector.egg-info/requires.txt
+circle_detector.egg-info/top_level.txt
+circledetector/__init__.py
+circledetector/__main__.py
+circledetector/processor.py
+circledetector/uploadgui.py
+tests/test.py

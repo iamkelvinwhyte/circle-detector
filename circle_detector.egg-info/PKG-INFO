@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: circle-detector
+Version: 0.0.1
+Summary: A tool for detecting circles in DICOM images
+Author: Kelvin Odafe 
+Author-email: odafeky@gmail.com
+Requires-Python: >=3.7
